@@ -1,1 +1,21 @@
+body{
+	text-align: center;
+}
+h1{
+	color: blue;
+}
 
+a{
+	border: 1px solid black;
+	padding: 10px;
+	color: blue;
+}
+
+#button.toggle{
+	color: yellow;
+}
+
+a:visited{
+	text-decoration: none;
+	color: blue;
+}
